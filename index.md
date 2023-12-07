@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: M³
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -23,8 +23,8 @@ sections:
   - infobar:
       title: Our Direction
       subtitle: FOCUS AREAS
-      description: "M³ is a collaborative effort between Muis, MENDAKI and MESRA to
-        harness each other's strengths and resources. "
+      description: M³ is a collaborative effort between Muis, MENDAKI and MESRA to
+        harness each other's strengths and resources.
       button: Learn More
       url: /faq/
 ---
