@@ -1,8 +1,18 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Community of Success
+    collection: example-folder
+  - title: Who we are
+    collection: example-folder
+  - title: focus areas
+    collection: example-folder
+  - title: M³@Towns
+    collection: example-folder
+  - title: media centre
+    collection: example-folder
+  - title: New folder
+    collection: example-folder
+  - title: Useful liinks
+    collection: example-folder
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
