@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - MESRA.md
       - MENDAKI.md
       - Muis.md
       - M3@WGS.md
