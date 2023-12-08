@@ -1,0 +1,4 @@
+collections:
+  m3-towns:
+    output: true
+    order: []
