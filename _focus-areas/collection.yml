@@ -1,4 +1,5 @@
 collections:
   focus-areas:
     output: true
-    order: []
+    order:
+      - Marriage, Parenthood and Early Childhood.md
