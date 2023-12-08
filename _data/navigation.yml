@@ -11,10 +11,10 @@ links:
   - title: Media Centre
     collection: example-folder
   - title: Useful links
-    collection: example-folder
+    collection: useful-links
   - title: Contact Us
     url: /contact-us/
   - title: Be a Volunteer!
-    url: /permalink
+    url: /be-a-volunteer
   - title: New folder
     collection: example-folder
