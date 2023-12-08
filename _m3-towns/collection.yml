@@ -2,15 +2,15 @@ collections:
   m3-towns:
     output: true
     order:
-      - M³@Toa Payoh.md
-      - M³@Jalan Besar.md
-      - M³@Geylang Serai.md
-      - M³@Woodlands.md
-      - M³@Nee Soon.md
-      - M³@Marsiling Yew Tee.md
-      - M³@Jurong.md
-      - M³@Chua Chu Kang.md
+      - M³@Towns.md
       - M³@Bedok.md
+      - M³@Chua Chu Kang.md
+      - M³@Geylang Serai.md
+      - M³@Jalan Besar.md
+      - M³@Jurong.md
+      - M³@Marsiling Yew Tee.md
+      - M³@Nee Soon.md
       - M³@Pasir Ris Punggol.md
       - M³@Tampines.md
-      - M³@Towns.md
+      - M³@Toa Payoh.md
+      - M³@Woodlands.md
