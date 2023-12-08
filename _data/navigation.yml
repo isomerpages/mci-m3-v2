@@ -15,6 +15,4 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Be a Volunteer!
-    url: /be-a-volunteer
-  - title: New folder
-    collection: example-folder
+    collection: be-a-volunteer
