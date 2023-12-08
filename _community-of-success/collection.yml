@@ -1,4 +1,5 @@
 collections:
   community-of-success:
     output: true
-    order: []
+    order:
+      - Community of Success.md
