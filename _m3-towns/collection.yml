@@ -2,6 +2,7 @@ collections:
   m3-towns:
     output: true
     order:
+      - M³@Toa Payoh.md
       - M³@Jalan Besar.md
       - M³@Geylang Serai.md
       - M³@Woodlands.md
