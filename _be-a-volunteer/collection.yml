@@ -1,5 +1,4 @@
 collections:
   be-a-volunteer:
     output: true
-    order:
-      - Be a Volunteer/.keep
+    order: []
