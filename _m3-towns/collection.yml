@@ -2,5 +2,6 @@ collections:
   m3-towns:
     output: true
     order:
+      - M³@Pasir Ris Punggol.md
       - M³@Tampines.md
       - M³@Towns.md
