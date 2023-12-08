@@ -2,4 +2,5 @@ collections:
   focus-areas:
     output: true
     order:
+      - M³ Focus Areas.md
       - Marriage, Parenthood and Early Childhood.md
