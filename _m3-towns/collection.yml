@@ -2,6 +2,7 @@ collections:
   m3-towns:
     output: true
     order:
+      - M³@Jurong.md
       - M³@Chua Chu Kang.md
       - M³@Bedok.md
       - M³@Pasir Ris Punggol.md
