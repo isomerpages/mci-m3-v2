@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Lawyers@M³.md
       - MESRA.md
       - MENDAKI.md
       - Muis.md
