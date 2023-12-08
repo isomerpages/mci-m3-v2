@@ -1,4 +1,5 @@
 collections:
   m3-towns:
     output: true
-    order: []
+    order:
+      - M³@Towns.md
