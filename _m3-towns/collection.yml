@@ -2,4 +2,5 @@ collections:
   m3-towns:
     output: true
     order:
+      - M³@Tampines.md
       - M³@Towns.md
