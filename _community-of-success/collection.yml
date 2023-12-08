@@ -2,5 +2,6 @@ collections:
   community-of-success:
     output: true
     order:
+      - Our Pulse.md
       - Test1/.keep
       - Community of Success.md
