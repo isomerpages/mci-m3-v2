@@ -2,7 +2,7 @@
 layout: homepage
 title: M³
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/m3-logo-horizontal.svg
 permalink: /
 notification: ""
 sections:
