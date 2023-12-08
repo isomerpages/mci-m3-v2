@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Progressing With M³
       subtitle: To build a Community of Success
-      background: /images/hero-banner.png
+      background: /images/Hero_Banner_1006.png
       key_highlights:
         - title: M³@Towns
           description: Find us near you!
