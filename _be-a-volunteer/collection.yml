@@ -2,5 +2,4 @@ collections:
   be-a-volunteer:
     output: true
     order:
-      - Be a Volunteer/test volunteer.md
       - Be a Volunteer/.keep
