@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Community of Success.md
-      - Test1/Language & Culture.md
-      - Test1/.keep
+      - Our Pulse/Language & Culture.md
+      - Our Pulse/.keep
