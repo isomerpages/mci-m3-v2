@@ -1,0 +1,8 @@
+---
+title: Arts & Sports
+permalink: /community-of-success/our-pulse/arts-and-sports/
+variant: tiptap
+description: ""
+third_nav_title: Our Pulse
+---
+<h3><strong>Arts &amp; Sports</strong></h3><p>A vibrant arts and sports scene within Singapore’s Malay/Muslim community.</p><p>Singaporean Malay/Muslims in the arts and sports have flown Singapore’s flag high in their respective fields, making their marks internationally and trailblazing for others in the community to follow. From staging performances abroad to clinching awards at world championships, these artists and athletes have proven that they have what it takes to succeed at the highest level and make their country and community proud.</p><p></p><h4><strong>Silat Tertiary Competition (PERSISI)</strong></h4><p>In collaboration with the Singapore Silat Federation (PERSISI), Anjung@WGS hosted the 19th <em>Silat Tertiary Competition</em> which is a Silat championship between various tertiary education institutions such as ITE, Polytechnics and Universities. This competition was hosted in Wisma Geylang Serai.</p><h4><strong>Sepak Takraw Competition (PERSES)</strong></h4><p>As part of the 2022 Pesta Sukan, a week-long Sepak Takraw league 2022 titled <em>Sukan Warisan</em> Kita, was held in Anjung@WGS in collaboration with the Singapore Sepak Takraw Federation (PERSES) and ActiveSG. This competition was hosted in Wisma Geylang Serai.</p>
