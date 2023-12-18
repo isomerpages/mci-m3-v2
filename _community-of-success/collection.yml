@@ -2,7 +2,6 @@ collections:
   community-of-success:
     output: true
     order:
-      - InspirasiSG.md
       - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
@@ -10,3 +9,4 @@ collections:
       - Our Pulse/Socio Religious.md
       - Our Pulse/Social & Health Development.md
       - Our Pulse/Arts & Sports.md
+      - InspirasiSG.md
