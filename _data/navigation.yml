@@ -8,11 +8,11 @@ links:
     collection: focus-areas
   - title: M³@Towns
     collection: m3-towns
-  - title: Media Centre
-    collection: example-folder
   - title: Useful links
     collection: useful-links
   - title: Contact Us
     url: /contact-us/
   - title: Be a Volunteer!
     collection: be-a-volunteer
+  - title: Media Centre
+    resource_room: true
