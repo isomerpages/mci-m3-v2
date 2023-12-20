@@ -27,4 +27,9 @@ sections:
         harness each other's strengths and resources.
       button: Learn More
       url: /faq/
+  - resources:
+      title: Be in the know!
+      subtitle: Media and news
+      id: resources
+      button: View More
 ---
