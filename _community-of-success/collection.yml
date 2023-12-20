@@ -2,6 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
+      - SGTeguhBersatu.md
       - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
