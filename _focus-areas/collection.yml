@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - M³ Focus Areas/Marriage, Parenthood and Early Childhood.md
       - M³ Focus Areas/.keep
       - M³ Focus Areas.md
       - Vulnerable Individuals and Families.md
