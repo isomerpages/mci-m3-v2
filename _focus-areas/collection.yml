@@ -2,6 +2,7 @@ collections:
   focus-areas:
     output: true
     order:
+      - M³ Focus Areas/Employment and Employability.md
       - M³ Focus Areas/Empowering and Mentoring Our Youths.md
       - M³ Focus Areas/Vulnerable Individuals and Families.md
       - M³ Focus Areas/Marriage, Parenthood and Early Childhood.md
