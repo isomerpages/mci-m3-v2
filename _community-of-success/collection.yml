@@ -2,9 +2,6 @@ collections:
   community-of-success:
     output: true
     order:
-      - InspirasiSG/InspirasiSG Stories.md
-      - InspirasiSG/InspirasiSG.md
-      - InspirasiSG/.keep
       - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
@@ -12,8 +9,11 @@ collections:
       - Our Pulse/Socio Religious.md
       - Our Pulse/Social & Health Development.md
       - Our Pulse/Arts & Sports.md
+      - InspirasiSG/.keep
+      - InspirasiSG/InspirasiSG Stories.md
+      - InspirasiSG/InspirasiSG.md
+      - SGTeguhBersatu/.keep
       - SGTeguhBersatu/SGTeguhBersatu Initiatives.md
       - SGTeguhBersatu/SGTeguhBersatu Taskforce Members.md
-      - SGTeguhBersatu/.keep
       - SGTeguhBersatu/SGTeguhBersatu.md
       - CiptaSama@M³.md
