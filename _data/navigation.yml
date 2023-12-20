@@ -10,9 +10,9 @@ links:
     collection: m3-towns
   - title: Useful links
     collection: useful-links
-  - title: Contact Us
-    url: /contact-us/
-  - title: Be a Volunteer!
-    collection: be-a-volunteer
   - title: Media Centre
     resource_room: true
+  - title: Be a Volunteer!
+    collection: be-a-volunteer
+  - title: Contact Us
+    url: /contact-us/
