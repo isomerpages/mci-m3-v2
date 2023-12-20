@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SGTeguhBersatu/.keep
-      - SGTeguhBersatu.md
       - Community of Success.md
       - Our Pulse/.keep
       - Our Pulse/Language & Culture.md
