@@ -2,6 +2,7 @@ collections:
   community-of-success:
     output: true
     order:
+      - CiptaSama@M³.md
       - SGTeguhBersatu/SGTeguhBersatu.md
       - SGTeguhBersatu/.keep
       - Community of Success.md
