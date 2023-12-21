@@ -1,4 +1,5 @@
 collections:
   inspirasisg-stories:
     output: true
-    order: []
+    order:
+      - Abdul Hamed.md
