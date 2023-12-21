@@ -2,4 +2,5 @@ collections:
   inspirasisg-stories:
     output: true
     order:
+      - Abdul Rahman Bin Ahmad, Civil Servant.md
       - Abdul Hamed.md
