@@ -2,9 +2,9 @@ collections:
   focus-areas:
     output: true
     order:
+      - Marriage, Parenthood and Early Childhood.md
+      - Vulnerable Individuals and Families.md
       - A Healthy Community for All.md
       - Employment and Employability.md
       - Empowering and Mentoring Our Youths.md
-      - Vulnerable Individuals and Families.md
-      - Marriage, Parenthood and Early Childhood.md
       - M³ Focus Areas/.keep
