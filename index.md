@@ -49,9 +49,8 @@ sections:
           description: Strengthen social cohesion and achieve One People, One Singapore.
           linktext: Learn more
           url: https://www.facebook.com/MESRA.PA
-        - title: Lawyers@M³
-          description: Improve legal literacy and better access legal services for the
-            community.
+        - title: Send us your feedback
+          description: We'd love to hear from you
           linktext: Learn more
           url: https://form.gov.sg/5d14249c45677e0011c24454
 ---
