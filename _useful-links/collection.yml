@@ -2,8 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - Wisma Geylang Serai.md
       - M3@WGS.md
+      - Wisma Geylang Serai.md
       - Muis.md
       - MENDAKI.md
       - MESRA.md
