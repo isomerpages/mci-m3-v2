@@ -12,7 +12,7 @@ links:
     collection: useful-links
   - title: Media Centre
     resource_room: true
-  - title: Be a Volunteer!
-    collection: be-a-volunteer
+  - title: Be A Volunteer!
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
