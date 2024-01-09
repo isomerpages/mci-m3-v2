@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: M³@Towns
           description: Find us near you!
-          url: https://google.com
+          url: /m3-towns/all/
         - title: About M³
           description: Who we are
-          url: https://gmail.com
+          url: /who-we-are/aboutus/
         - title: Be A Volunteer
           description: Let's make a difference!
           url: https://form.gov.sg/5c48f3157fa6a90017c8511a
@@ -26,7 +26,7 @@ sections:
       description: M³ is a collaborative effort between Muis, MENDAKI and MESRA to
         harness each other's strengths and resources.
       button: Learn More
-      url: /faq/
+      url: /focus-areas/marriage-parenthood-and-early-childhood/
   - resources:
       title: Be in the Know
       subtitle: Media and news
